@@ -1,2 +1,1 @@
 File B
-line B2
