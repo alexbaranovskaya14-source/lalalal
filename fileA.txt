@@ -1,2 +1,3 @@
 fileA
 line A2
+happy
